@@ -1,3 +1,6 @@
+# 1672. Richest Customer Wealth
+
+
 # accounts = [[1, 5], [7, 3], [3, 5]]
 # max_wealth = max(sum(customer) for customer in accounts)
 # print(max_wealth)  # Output: 10
